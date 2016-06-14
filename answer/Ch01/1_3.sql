@@ -1,0 +1,1 @@
+DROP TALBE Jyushoroku;
