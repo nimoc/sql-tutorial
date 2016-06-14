@@ -1,0 +1,1 @@
+ALTER TABLE Sohin RENAME TO Shohin;

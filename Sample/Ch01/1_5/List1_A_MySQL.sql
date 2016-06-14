@@ -1,0 +1,1 @@
+RENAME TABLE Sohin to Shohin;
