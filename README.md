@@ -1,3 +1,5 @@
+> 各位小伙伴，我是 [nimoc](https://github.com/nimoc), 推荐一个非常不错的 sql 视频 [https://www.bilibili.com/video/BV1Xb41177na?p=1](https://www.bilibili.com/video/BV1Xb41177na?p=1)
+
 ------------------------------------------------------------
 编程学习系列
 《SQL基础教程》
