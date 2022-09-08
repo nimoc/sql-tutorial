@@ -1,4 +1,4 @@
-> 各位小伙伴，我是 [nimoc](https://github.com/nimoc), 推荐一个非常不错的 sql 视频 [https://www.bilibili.com/video/BV1Xb41177na?p=1](https://www.bilibili.com/video/BV1Xb41177na?p=1)
+> 各位小伙伴，我是 [nimo](https://github.com/nimoc), 推荐一个非常不错的 sql 视频 [https://search.bilibili.com/all?keyword=mosh%20sql](https://search.bilibili.com/all?keyword=mosh%20sql) *mosh sql*
 
 ------------------------------------------------------------
 编程学习系列
